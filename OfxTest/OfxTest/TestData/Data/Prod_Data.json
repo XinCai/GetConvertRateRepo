@@ -1,0 +1,6 @@
+﻿{
+    "InputCurrency":  "GBP",
+    "RecipientCurrency": "JPY",
+    "InputAmount": "2000",
+    "CustomerRate" : 145
+}
